@@ -37,7 +37,7 @@ public class point {
     public void input()
     {
         Scanner sc = new Scanner(System.in);
-            System.out.println("Nhap toa do x va y");
+            System.out.println("x, y");
             this.x = sc.nextDouble();
             this.y = sc.nextDouble();
     
